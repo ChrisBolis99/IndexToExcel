@@ -27,7 +27,7 @@ def create_index(folder_path, output_excel):
     print(f"File saved at {output_excel}")
 
 
-folder_to_scan = r"C:\Users\Christopher Bolis\Documents\Unreal Projects\SpaceSurvival"
+folder_to_scan = r"Put folder to scan path here"
 output_file = "index.xlsx"
 
 create_index(folder_to_scan, output_file)
